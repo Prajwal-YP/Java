@@ -1,3 +1,3 @@
 ## O U T P U T
 
-![Output](https://github.com/Prajwal-YP/imageCache/blob/main/answerForCandy.png)
+![answerForCandy](https://user-images.githubusercontent.com/87578946/220099744-6b0463ff-793e-4127-a8c0-c006b8cdd872.png)
